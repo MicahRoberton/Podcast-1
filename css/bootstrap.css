@@ -271,9 +271,7 @@ th {
 }
 
 .body {
-  font-family: 'SFRounded';
-  src: url('SFRounded-Ultralight.woff2') format('woff2'),
-      url('SFRounded-Ultralight.woff') format('woff');
+  font-family: 'SFRounded', SF;
 }
 
 
