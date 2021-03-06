@@ -1,4 +1,4 @@
 # podcast.github.io
 Current site for my Podcast. Please check in often for new episodes!
 
-You can access this site at
+You can access this site at https://micahroberton.github.io/podcast.github.io/
